@@ -1,0 +1,45 @@
+HALO® GAME DATA TERMS OF USE
+LAST UPDATED: December 16, 2015
+
+Thanks for your interest in Halo! These Terms of Use (“TOU”) govern your use of Halo Game Data that Microsoft makes accessible by means of an application programming interface (respectively “Game Data” and “API”) in connection with an application, web site, or online service (“Application”) that you develop. Please read them carefully. By registering with Microsoft for an API Key, you acknowledge and agree that this TOU forms an agreement between you and Microsoft Corporation (“Microsoft”), and you agree to abide by this TOU and any API documentation (“Documentation”) provided by Microsoft (which Documentation is incorporated into this TOU by this reference).
+
+1.	General API Use. .
+(a)	Registration. In order to access and use Game Data and API, you must register for an API Key. All information you submit, and any response you give to questions asked (at any time) by Microsoft, must be truthful.
+
+(b)	API Key. Microsoft is not obligated to grant you an API Key. If it does, Microsoft may revoke your API Key without notice at any time for any reason, including without limitation any violation of this TOU. You may not sell, lease, or transfer the API Key assigned to you by Microsoft. You agree to keep the API Key confidential, and to use the same degree of care in keeping the API Key confidential that you use in keeping your own information confidential.
+(c)	API Use. You will not attempt to circumvent the API, or in any way abuse, misuse, or interfere with the intended operation of the API. Microsoft may collect and use data regarding use of the API. Microsoft may limit the number of API calls from an Application in a given period of time.
+
+2.	Licenses. On the condition that you comply in full with this TOU, Microsoft grants you a limited, revocable, nonexclusive, royalty free, non-transferable, non-sublicensable license to reproduce, distribute, publicly display, publicly perform, transmit, and communicate to the public the Game Data by means of a limited commercial Application that you develop. Microsoft also grants you a limited, revocable, nonexclusive, royalty free, non-transferable, non-sublicensable license to use the API for the sole purpose of developing, reproducing and distributing your Application. Any license not expressly granted by this TOU is reserved.
+
+3.	Privacy. You acknowledge that Microsoft collects Game Data pursuant to the Microsoft Services Agreement and Microsoft Privacy Statement. You agree that you will not use the Game Data or API in any way that contravenes the foregoing. Upon request by Microsoft, you will immediately purge any Game Data in your possession, and this obligation shall survive any revocation of your API key, or termination of this TOU.
+
+4.	Limited Commercial Use. Except as provided in this section, your use of the Game Data and API must be non-commercial. For example, you may not charge a user a fee in order to download an application, to access Game Data, or to access enhanced features. You also may not bundle a third party product or service with your Application in exchange for consideration offered by that third party. Notwithstanding the foregoing, the following, limited forms of commercial use (and these forms only) are allowed: using a third-party crowdfunding site (e.g., Kickstarter) for the sole purpose of raising funds to develop your Application, displaying non-restricted advertisements in connection with the display of the Game Data, and offering an in-app purchase solely to remove advertisements. Advertisements for the following kinds of products or services, or with the following kinds of content, are restricted: alcohol; tobacco; firearms; illegal gambling sites or services; dating or personals sites or services; adult products or services; debt services; online pharmacies; religion or religious content; political campaigns or issues; any first-person shooter game competitive with Halo, or competitive gaming devices or services; or any product, service, or content inappropriate for the audience corresponding to the most restrictive rating for any Halo title (e.g., ESRB “T” in the U.S.).
+
+5.	Other Requirements and Restrictions. You and your Application will:
+
+display the following notice prominently (for example, in an “About” section of an application, or at the bottom of the home page of a website): This application is offered by <insert your name>, which is solely responsible for its content. It is not sponsored or endorsed by Microsoft. This application uses the Halo® Game Data API. Halo © <current year> Microsoft Corporation. All rights reserved. Microsoft, Halo, and the Halo Logo are trademarks of the Microsoft group of companies.
+comply with all applicable laws.
+You and your application will not:
+
+be developed or distributed for any competitive gaming device or service, including without limitation PlayStation 3 or 4; Nintendo Wii, WiiU, DS or 3DS.
+commingle Game Data with data from another game or game platform.
+use any malware or spyware, or attempt any phishing.
+interfere with the intended operation of any Microsoft product or service.
+suggest any affiliation with, or sponsorship or endorsement by, Microsoft.
+6.	No Warranty. The Game Data and API are provided “as-is.” Microsoft makes no warranty of any kind with respect to the Game Data or API (whether express or implied, and including any warranty of fitness for a particular purpose, non-infringement, or merchantability). Microsoft may alter the Game Data or upgrade or disable API without notice at any time for any reason.
+
+7.	Limitation of Liability. Microsoft will not be liable for any special, incidental, consequential, exemplary, punitive, or other indirect damages (including damages for loss of profits or revenues, business interruption, or loss of business information), foreseeable or unforeseeable, arising out of this TOU regardless of the basis of liability (breach of contract, tort, strict liability, or otherwise), and even if advised the damages are possible.
+
+8.	Indemnification. You agree to indemnify, defend, and hold harmless Microsoft and its affiliates from any claims, including attorneys’ fees, related to your use of the Game Data and API.
+
+9.	General Terms.
+(a) Entire Agreement. This TOU constitutes the entire agreement between Microsoft and You with respect to the subject matter hereof and supersedes all prior proposals, understandings and communications between the parties with respect to that subject matter. Microsoft may update or revise this TOU at any time.
+
+(b) Law. This TOU is governed by Washington State law (disregarding conflicts of law principles), and the parties consent to exclusive jurisdiction and venue in the state and federal courts of King County, Washington. Neither party will claim lack of personal jurisdiction or forum non conveniens in these courts. In any action or suit related to this TOU, the prevailing party is entitled to recover its costs, including reasonable attorneys’ fees.
+
+(c) Interpretation. If a court of competent jurisdiction finds any term of the TOU unenforceable, the TOU will be deemed modified as necessary to make it enforceable, and the rest of the TOU will be fully enforced to effect the parties’ intent.
+(e) Notices. All notices in connection with this TOU may be delivered in writing or via email at the addresses provided. You agree to provide Microsoft with your email and keep such email up to date in order to receive notices under this TOU.
+
+(f) Miscellaneous. Each party is an independent contractor to the other and has no authority to act on behalf of or bind the other, and this TOU does not create any other relationship (e.g., employment, partnership, or agency). All rights and remedies under this TOU are cumulative. Each party will pay its own costs to perform (except if expressly stated otherwise).
+
+(g) Enforcement. Microsoft reserves the right to take any enforcement action it deems necessary against any Application that in Microsoft’s view does not fully comply with this TOU.

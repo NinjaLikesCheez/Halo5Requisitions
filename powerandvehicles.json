@@ -1,0 +1,221 @@
+{
+	"power weapons": 
+	[{
+		"Beam Rifle": "e1047da5-2880-4071-8e8d-9fecd5cb4f3d",
+		"Sword of the Faithful": "e2f5c12b-072f-45d8-ab0b-699691337627",
+		"Krith's Left Hand": "698f58e5-79e3-4529-a838-b30cfea60ad7",
+		
+		"Binary Rifle": "19ee4319-7c28-4166-938b-f98feebba714",
+		"Retina of the Mind's Eye": "1e4a934b-f469-4f19-8eae-5d2062680571",
+		"Twin Jewels of Maethrillian": "afced458-47bb-4662-97d5-d372b531b420",
+
+		"Boltshot": "74fec31e-c9b0-40dc-98f7-82b3d5d94efa",
+		"Closed Fist" : "65100858-b9ea-425e-ba3a-2cac18ef8c22",
+		"Open Hand": "9fa4e8cc-5014-43df-8010-c4b97b8d523d",
+
+		"Carbine": "f42672b6-e578-4e2c-a6ac-f2c0326ec41e",
+		"Rain of Oblivion": "3ccacc28-3e9a-4bdc-8f94-bb706102b798",
+		"Blood of Suban": "46277f4d-499d-441d-bf4a-44a5951345a6",
+
+		"Energy Sword": "a93e3a6d-64f5-4c4d-b8d0-9dcac39f3401",
+		"Ravening Sliver": "dde37842-3e4b-4f4f-a4ab-9be067d659b1",
+		"Vorpal Talon": "be395318-f442-4d85-9e31-b4aef1b0396b",
+		"Prophet's Bane": "03ca3f2a-c2dd-4315-8238-ac6a90b6c970",
+
+		"Fuel rod Cannon": "592489a8-edbe-4a68-b622-07c80a4be0db",
+		"Light of Urs": "d9bb0ce2-90cf-4d33-b173-cfc4c5c600a3",
+		"Pool of Radiance": "1427bb67-138b-4527-9788-3014398d7fb1",
+
+		"Guass Turret": "48e94634-c9f0-4acf-9dfa-3b7b4bad43f5",
+		"ONI Guass Turret": "fb205987-ecdc-4957-87ac-dea93c0c4372",
+
+		"Corpsemaker": "7a8e3278-a4a0-431e-9005-28a434d023cc",
+		"Gravity Hammer": "06106fff-7cd5-48e2-8573-4dbfce71c8f2",
+		"Grinder": "81186db0-444c-4214-b756-610c3c55904e",
+		"Tartarus' Gavel": "913ae127-131d-40ad-a1b8-f25b1d23ebd3",
+
+		"Hydra Launcher": "d97e51e5-a305-42ad-b142-0121823aa555",
+		"Typhon": "8fcd8fb0-b3cd-4eab-9d67-767a933cda52",
+		"Echidna": "11c60ec0-16eb-4ebc-a596-4ae755a7ab76",
+
+		"Incineration Cannon": "d5232e38-2e55-47b7-b72e-c2b41f93ffbf",
+		"River of Light": "425ec88e-daae-4e45-ae18-57ba36e12f07",
+		"Heartseeker": "0152759a-a58e-4033-87c4-f90075319c72",
+
+		"Lightrifle": "aa673098-1abf-49d1-aee5-0717badda29f",
+		"Barbed Lance": "53d939ad-703d-4a54-84ea-8167f51cd54a",
+		"Dying Star": "89e4d22d-3389-4ca4-85cd-f6f494009d1e",
+
+		"Whispered Truth": "b426c48a-785b-4f97-95f6-d33f981a08b0",
+		"Halo: Combat Evolved Pistol": "3c75909d-c858-44a5-8294-b1cc088531f4",
+
+		"Needler": "70477c8f-918f-4375-87de-7eaa2243deb7",
+		"Hailstorm": "e35c7d82-42bd-4ef9-a1d5-a625994aa1b0",
+		"Talon of the Lost": "7944b113-0662-4e08-8cc4-096e0a4042a2",
+
+		"Plasma Caster": "9cdc88b9-f514-4721-b1d3-8684b75a282f",
+		"Scourge of Fire": "2cef416f-6c14-4bb0-9524-e03628e34084",
+		"White Scar": "69472de1-6af2-4851-8912-be2f9204bb5e",
+
+		"Plasma Pistol": "56853613-e098-4ace-9717-80708663b870",
+		"Spitfire": "a0a0b345-cc6a-4072-82bd-ba18de00bcf8",
+		"Void's Tear": "855df1e9-c754-4e2e-a691-1d8997c7b802",
+
+		"Plasma Turret": "08a0f3f7-21c6-4c20-bb5f-b48432c5a8d6",
+
+		"Railgun": "d7af2066-1281-4940-b4fe-d5977f90041f",
+		"Whiplash": "a509dd61-258a-4124-b255-e88c28b8203a",
+		"Arclight": "a60f59d2-61e1-420f-b7d5-5728b0e5d2af",
+
+		"Random Weapon - Common": "159247e8-ee1f-4bc9-9dc1-70e516e97523",
+		"Random Weapon - Uncommon": "3cc13f52-d890-4fd0-b58b-409942d8e115",
+		"Random Weapon - Rare": "9deda07f-4352-4c46-8a94-aeafaa9f72f0",
+
+		"Rocket Launcher": "51565244-1219-431f-8191-461d69dcd185",
+		"Ad Victoriam": "37f32e6b-d191-455f-ae6a-558261a5bdc2",
+
+		"SPNKR EM": "d9898b37-25e8-44a9-9f9f-a3ca539e8c32",
+		"SPNKR Rocket Launcher": "c16d79b3-de85-4e7f-845d-0f7dffaff659",
+
+		"High Five": "72417c9e-516d-43eb-b843-4c2badb37e85",
+
+		"SPNKR Ex": "0322ac43-1120-4989-ba98-62d31939d32c",
+		"SPNKR Prime": "06c63af5-38ab-409a-9806-8710f2dcc4c5",
+
+		"Rocket Pod Turret": "2ddbad1b-9edc-4346-adca-05418db10e43",
+		"ONI Rocket Turret": "b34c0f49-cb01-4733-b74e-97b03b3c7e75",
+
+		"SAW": "71e202c1-a65a-436d-a218-e77da213f5e7",
+		"Appetite for Destruction": "5930e562-f259-4f84-887f-0dfbba271b17",
+		"The Answer": "246a8f14-d0a1-48b4-9a5c-30b20e5f7c63",
+
+		"Scattershot": "548da64c-1774-4020-91cc-edeba424d29d",
+		"Loathsome Thing": "8e392c64-a3c7-4d4b-9221-5e00bdbfb0eb",
+		"Didact's Signet": "b140d695-1ad1-47a6-aafe-bd56c38db0cd",
+
+		"Shotgun": "20fe9475-fb44-4932-afc7-99c2ecd14d20",
+		"Lawgiver": "b145e48b-181e-453f-a4b4-f0b33125a5bd",
+		"Blaze of Glory": "28cc76b0-9e8c-46ad-9a75-5d405715ef2d",
+		"Oathsworn": "edea0890-59f9-4779-9b70-4f790458372f",
+
+		"Sniper Rifle": "0652e368-d2a1-4b79-a25c-3b006b50b983",
+		"End of the Line": "cefcff2f-b0e0-442d-a244-132af412fbec",
+		"Arrow of Time": "7483c6ce-eea1-41de-b11a-6bf295d6d9c1",
+		"Nornfang": "a23a896d-57e6-45c3-970b-27550f0e7184",
+
+		"Spartan Laser": "c1d6d4ae-c504-4041-b2d1-c66b7800a371",
+		"Endgame": "26cf41da-f640-4bc3-b791-4aac12f388d8",
+		"Selene's Lance": "d1eb36bd-9314-4787-8f2a-49c2b6637a6c",
+
+		"Splinter Turret": "6bace91e-5557-4b5a-a88b-1f81db7e0e2a",
+
+		"Storm Rifle": "f606157d-9fb3-4d57-92b9-0700423c724f",
+		"Fury": "148029f6-568b-41ea-abd7-7274d562503f",
+		"Blissful Slumber": "4ecd3fca-576e-4e43-b148-07026fbc9b3e",
+
+		"Suppressor": "c21ebe7c-c871-425a-ad3e-1589aca29b44",
+		"Song of Peace": "ea9938c0-4751-418a-bd50-040b48e9e8fd",
+		"Razor's Edge": "082d79d1-c880-4555-b630-8b29bd09ac70",
+
+		"Chaingun Turret": "68fa68ce-f6c5-4205-8e6c-cc05965c6361",
+		"ONI Chaingun Turret": "f7dacb76-e32d-4669-b06f-ddcc1cf8af96"
+	}],
+
+	"vehicles":
+	[{
+		"Banshee": "4a0fae1b-4f36-4848-9bab-bb593e4a6a8f",
+		"Sword Banshee": "2f9ecd8f-ff80-494d-9005-96c557732877",
+		"Banshee Ultra": "c6be0247-3dc5-4995-99d3-f1002bf4d867",
+
+		"Corp Guass Warthog": "0c4fdcd4-ae67-499e-b800-c87d4c18185c",
+		"Guass Warthog": "c65ff5e1-5c86-42e0-9aae-b5c00e7ba124",
+		"ONI Guass Warthog": "267ea7b6-812c-474b-ba53-6aeab3f78885",
+		"Tundra Guass Warthog": "483e7369-05fc-43d9-b2f6-b0d6ad3e38bd",
+		"Urban Guass Warthog": "1977d1df-5118-47f6-8f2f-a98f8820e0a9",
+		"Woodland Guass Warthog": "45c59965-62af-4288-9c0c-fef6730608fe",
+
+		"Ghost": "06408e4d-9442-4c61-b722-8082f7a73563",
+		"Sword Ghost": "9cb7a100-a23b-4112-b05f-9644f32ed405",
+		"Ghost Ultra": "5ca407ba-b438-44cc-bcba-cdc42dd697c4",
+
+		"Gungoose": "68b47af2-6bc5-439b-8b6c-afbd220cae63",
+		"Corp Gungoose": "00b1a962-4c2c-47bf-9718-5a1537ff004f",
+		"ONI Gungoose": "775fb430-9b3e-49b0-966e-ac23f5dea3ad",
+		"Tundra Gungoose": "b30503de-f5a8-4aba-8511-7b19bef644f6",
+		"Urban Gungoose": "f822013e-b8d4-4aea-8237-c03afde10bf6",
+		"Woodland Gungoose": "cfc9b3a5-1767-48c6-836e-fe7a5b6839d8",
+
+		"Corp Mantis": "ee21440d-9d2c-443d-8385-9ad54ccc9094",
+		"Mantis": "8a61ebdc-66bb-47dd-a935-bd79ac85b358",
+		"Hannibal Mantis": "e3da4dbd-83a3-4fb1-ace1-d1cd69886c30",
+		"ONI Mantis": "5c930ca5-65bd-4e88-9da3-37542689edfe",
+		"Tundra Mantis": "cd54c493-1dc8-4904-bc67-8d814c1d1c11",
+		"Urban Mantis": "fbe9ca8b-7c05-47c7-8048-e3fa97d0e5c1",
+		"Woodland Gungoose": "5022032f-fc62-4ca8-b808-31765d10f629",
+
+		"Corp Mongoose": "08f898ba-3824-478f-8a77-6d415924a6ab",
+		"Mongoose": "d2916af4-ceb6-4e32-b7a4-709ab3c2ea7f",
+		"ONI Mongoose": "2ee57176-db14-49e1-80ee-21e35a88e2db",
+		"Tundra Mongoose": "df0a3aae-e0c6-4645-b0c6-d94966dbff03",
+		"Urban Mongoose": "2aa61d7f-67df-4a0c-8be2-fd4e16630a90",
+		"Woodland Mongoose": "6bb1829b-5c2d-4f38-ac91-8366cd0ff1ac",
+
+		"Phaeton": "28532cc3-e2c1-41be-8f9f-8414910b0b18",
+
+		"Random Vehicle - Uncommon": "9995c5ad-ac76-44fd-b7a8-b7b5b34825b8",
+		"Random Vehicle - Rare": "15d5d7d2-1526-4ad2-9845-4053e25d5d24",
+		"Random Vehicle - Ultra Rare": "471a5515-e4bd-4661-8508-6d35ba3f8621",
+
+		"Corp Rocket Warthog": "32a0013a-606d-4e9b-b38e-e87dcffd9c14",
+		"Rocket Warthog": "275fd291-780e-48b2-9c52-67cf1a10d07c",
+		"ONI Rocket Warthog": "bcbbd639-f7e1-46b6-9b93-9114cee61918",
+		"Tundra Rocket Warthog": "44304d9c-6a5f-47b4-99ce-345c3d2810b4",
+		"Urban Rocket Warthog": "470bb6fc-1ccf-4f43-b871-386d24faeb40",
+		"Woodland Rocket Warthog": "dea15851-17a1-4b68-946f-df8cca693b05",
+
+		"Corp Scorpion": "2cc8a416-c198-4dbd-a000-a300f52eea9d",
+		"Scorpion": "e606dd6e-2433-4abd-90d8-be1487ff40b1",
+		"Tundra Scorpion": "afc45f45-df13-4039-bc30-45d6473fcfd4",
+		"Urban Scorpion": "c2aa2c12-299f-43e3-9e2f-07b9687acd18",
+		"Woodland Scorpion": "3cbb74dd-5c91-495e-821b-9d2c296027bd",
+		"Hannibal Scorpion": "bb53c84c-19fc-4907-bd25-5f4e496e183a",
+		"ONI Scorpion": "8e942311-0feb-4f2b-9cf9-4a28c5f51c42",
+
+		"Corp Scout Warthog": "6387120b-2492-400b-8855-186e2942d545",
+		"ONI Scout Warthog": "8cf551ce-6aae-4262-8352-ec1d726f5fe5",
+		"Scout Warthog": "c6f31826-00d3-4a2d-9838-31c6839d6ba9",
+		"Tundra Scout Warthog": "d8c9b04b-3395-48b5-8fa8-be9b0798a6fc",
+		"Urban Scout Warthog": "f6ae29bd-7c56-4b8b-a99b-2d8379f6c7fb",
+		"Woodland Scout Warthog": "3f9a32c6-9679-4120-b39f-168ae179975b",
+
+		"Corp Warthog": "268fcdac-d2fa-4426-90a4-530b0d7e6f07",
+		"Warthog": "c5041c29-0a1c-4ab3-8064-d084a6a3529c",
+		"Tundra Warthog": "207e7995-938e-4393-a061-3719b344140c",
+		"Urban Warthog": "8c6e0bb1-f263-4bcc-bb84-549b98c7d8b2",
+		"Woodland Warthog": "258570d4-488a-4d77-ac24-6c7200a9bfe5",
+		"ONI Warthog": "c0715726-2632-429a-a249-3c8f0d067b7b",
+
+		"Sword Wraith": "468c727f-e626-4710-b61c-80dd82acf09a",
+		"Wraith": "5ffb0462-df03-41bb-9f98-40184d7e0b7a",
+		"Wraith Ultra": "de756e6b-10a9-4cd3-99a6-22f0d890b536"
+	}],
+
+	"powerups": 
+	[{
+		"Active Camo I": "b51925f1-cb16-455b-ad89-68a93e3f06ec",
+		"Active Camo II": "665a7c65-25a8-4c0d-8e78-249bc0734bd3",
+		"Active Camo III": "f1568c0a-68e7-49e3-8799-8efe53fd38f0",
+
+		"Damage Boost I": "adf41201-4940-4055-8e66-dc181014edf2",
+		"Damage Boost II": "cf9ce92d-6a24-432c-b2aa-d103d3d705de",
+		"Damage Boost III": "7abbef0c-5cac-4d5d-af94-69490b5cb881",
+
+		"Overshield I": "aedd49cd-987b-45c8-aeb7-2b6bc75594f7",
+		"Overshield II": "255409ee-c701-4d35-a480-e4d0475fc7d5",
+		"Overshield III": "c2783c51-04c6-49b1-b9b1-928d507c6a7b",
+
+		"Speed Boost I": "83be2d7c-0bb8-4398-8dae-51319d6f7a64",
+		"Speed Boost II": "7c573420-2a31-4162-81e5-b4734e642159",
+		"Speed Boost III": "4003cfdb-2048-4f14-a2cc-acfe22c4f652"
+	}]
+}
