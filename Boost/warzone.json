@@ -1,0 +1,28 @@
+{  
+    "Common":{  
+        "Warzone XP Boost":"53ab4701-1952-4743-8ff6-116e330dc7ea"
+    },
+    "Uncommon":{  
+        "Gambit: Assist":"ba59266e-b6cd-4d1f-bd39-ddcc3c5f1a0f",
+        "Mission: Victory":"1fcdd0b2-a1a4-40f0-88c5-b5398dd0301c",
+        "Warzone RP Boost":"e05df769-06e8-44cd-9b68-88e8f87bfa70",
+        "Warzone XP Boost":"ee3beb20-86c2-4edc-861f-7d0af726753f",
+        "Warzone XP Jackpot":"257e3408-c15b-42a0-948b-bd8027ca6d9d"
+    },
+    "Rare":{  
+        "Gambit: Spartan Kills":"e00c5ef7-b974-4ab2-a1d5-f8062b48166f",
+        "Warzone RP Boost":"4de82333-be7e-4739-a4b5-94477340c83c",
+        "Warzone RP Jackpot":"1e3b0db3-9baa-4f78-afe8-4a84546fa2e9",
+        "Warzone XP Boost":"91bb4cc3-145d-4dc9-8e2b-a7a2dad70b12"
+    },
+    "Ultra Rare":{  
+        "Gambit: Medal Count":"62c9fcb3-1ba0-43cb-8284-91b5c565f4de",
+        "Mission Victory":"84892278-d3f5-4fd8-b0df-a740e4e45114",
+        "Warzone RP Boost":"6bff04ed-c831-4ae6-a0be-0c7bfed0fef7"
+    },
+    "Legendary":{  
+        "Gambit: AI Kills":"7b494b69-d77a-4ce1-934f-44c828feb1fb",
+        "Warzone RP Boost":"414b5d47-29ae-42cf-8796-8fc09f650678",
+        "Warzone XP Boost":"315c2d37-5d78-460a-9fa0-91b90bc42cad"
+    }
+}

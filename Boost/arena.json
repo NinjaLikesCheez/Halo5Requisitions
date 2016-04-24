@@ -1,0 +1,27 @@
+{  
+    "Common":{  
+        "Arena XP Boost":"ec1dea62-86cd-4efe-b58a-45e3a236b981",
+        "Gambit: Assist":"2ead1dc8-c82a-488b-a0b8-50cee41044be"
+    },
+    "Uncommon":{  
+        "Arena RP Boost":"5888dc20-d3c1-41ba-9d7e-5baae3992ab2",
+        "Arena XP Boost":"1f7bd827-6090-4185-a2bf-7d0e1ac77a09",
+        "Arena XP Jackpot":"76def815-634a-42cd-b9ca-4c539205b863",
+        "Gambit: Spartan Kills":"63e6f570-4270-42ac-a5f9-50764ca2f737",
+        "Mission: Victory":"9c03fef6-de32-4f58-a514-7820b254b46f"
+    },
+    "Rare":{  
+        "Arena RP Boost":"5e801176-52da-4a2d-9229-7a8f18449178",
+        "Arena RP Jackpot":"4a917470-da82-42c1-8d46-d02fe4cdfea7",
+        "Area XP Boost":"49386ddf-723b-4392-9cfd-7ac6a4b3dee6",
+        "Gambit: Medal Count":"f4f4be30-fa4f-40f8-90d5-e3a2276caad7"
+    },
+    "Ultra Rare":{  
+        "Arena RP Boost":"3ec2dd37-06f4-412a-85b8-b1142f303701",
+        "Mission: Victory":"dbfcc627-6832-43b1-9191-86be3fe49cde"
+    },
+    "Legendary":{  
+        "Arena RP Boost":"2b5fc172-4914-437f-a506-19911964907f",
+        "Arena XP Boost":"ef6b4dbe-c4fa-4efd-bbd6-88310d775859"
+    }
+}

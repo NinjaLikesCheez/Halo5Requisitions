@@ -1,0 +1,77 @@
+{
+    "Banshee": "4a0fae1b-4f36-4848-9bab-bb593e4a6a8f",
+	"Sword Banshee": "2f9ecd8f-ff80-494d-9005-96c557732877",
+    "Banshee Ultra": "c6be0247-3dc5-4995-99d3-f1002bf4d867",
+
+    "Corp Guass Warthog": "0c4fdcd4-ae67-499e-b800-c87d4c18185c",
+    "Guass Warthog": "c65ff5e1-5c86-42e0-9aae-b5c00e7ba124",
+    "ONI Guass Warthog": "267ea7b6-812c-474b-ba53-6aeab3f78885",
+    "Tundra Guass Warthog": "483e7369-05fc-43d9-b2f6-b0d6ad3e38bd",
+    "Urban Guass Warthog": "1977d1df-5118-47f6-8f2f-a98f8820e0a9",
+    "Woodland Guass Warthog": "45c59965-62af-4288-9c0c-fef6730608fe",
+
+    "Ghost": "06408e4d-9442-4c61-b722-8082f7a73563",
+    "Sword Ghost": "9cb7a100-a23b-4112-b05f-9644f32ed405",
+    "Ghost Ultra": "5ca407ba-b438-44cc-bcba-cdc42dd697c4",
+
+    "Gungoose": "68b47af2-6bc5-439b-8b6c-afbd220cae63",
+    "Corp Gungoose": "00b1a962-4c2c-47bf-9718-5a1537ff004f",
+    "ONI Gungoose": "775fb430-9b3e-49b0-966e-ac23f5dea3ad",
+    "Tundra Gungoose": "b30503de-f5a8-4aba-8511-7b19bef644f6",
+    "Urban Gungoose": "f822013e-b8d4-4aea-8237-c03afde10bf6",
+    "Woodland Gungoose": "cfc9b3a5-1767-48c6-836e-fe7a5b6839d8",
+
+    "Corp Mantis": "ee21440d-9d2c-443d-8385-9ad54ccc9094",
+    "Mantis": "8a61ebdc-66bb-47dd-a935-bd79ac85b358",
+    "Hannibal Mantis": "e3da4dbd-83a3-4fb1-ace1-d1cd69886c30",
+    "ONI Mantis": "5c930ca5-65bd-4e88-9da3-37542689edfe",
+    "Tundra Mantis": "cd54c493-1dc8-4904-bc67-8d814c1d1c11",
+    "Urban Mantis": "fbe9ca8b-7c05-47c7-8048-e3fa97d0e5c1",
+    "Woodland Gungoose": "5022032f-fc62-4ca8-b808-31765d10f629",
+
+    "Corp Mongoose": "08f898ba-3824-478f-8a77-6d415924a6ab",
+    "Mongoose": "d2916af4-ceb6-4e32-b7a4-709ab3c2ea7f",
+    "ONI Mongoose": "2ee57176-db14-49e1-80ee-21e35a88e2db",
+    "Tundra Mongoose": "df0a3aae-e0c6-4645-b0c6-d94966dbff03",
+    "Urban Mongoose": "2aa61d7f-67df-4a0c-8be2-fd4e16630a90",
+    "Woodland Mongoose": "6bb1829b-5c2d-4f38-ac91-8366cd0ff1ac",
+
+    "Phaeton": "28532cc3-e2c1-41be-8f9f-8414910b0b18",
+
+    "Random Vehicle - Uncommon": "9995c5ad-ac76-44fd-b7a8-b7b5b34825b8",
+    "Random Vehicle - Rare": "15d5d7d2-1526-4ad2-9845-4053e25d5d24",
+    "Random Vehicle - Ultra Rare": "471a5515-e4bd-4661-8508-6d35ba3f8621",
+
+    "Corp Rocket Warthog": "32a0013a-606d-4e9b-b38e-e87dcffd9c14",
+    "Rocket Warthog": "275fd291-780e-48b2-9c52-67cf1a10d07c",
+    "ONI Rocket Warthog": "bcbbd639-f7e1-46b6-9b93-9114cee61918",
+    "Tundra Rocket Warthog": "44304d9c-6a5f-47b4-99ce-345c3d2810b4",
+    "Urban Rocket Warthog": "470bb6fc-1ccf-4f43-b871-386d24faeb40",
+    "Woodland Rocket Warthog": "dea15851-17a1-4b68-946f-df8cca693b05",
+
+    "Corp Scorpion": "2cc8a416-c198-4dbd-a000-a300f52eea9d",
+    "Scorpion": "e606dd6e-2433-4abd-90d8-be1487ff40b1",
+    "Tundra Scorpion": "afc45f45-df13-4039-bc30-45d6473fcfd4",
+    "Urban Scorpion": "c2aa2c12-299f-43e3-9e2f-07b9687acd18",
+    "Woodland Scorpion": "3cbb74dd-5c91-495e-821b-9d2c296027bd",
+    "Hannibal Scorpion": "bb53c84c-19fc-4907-bd25-5f4e496e183a",
+    "ONI Scorpion": "8e942311-0feb-4f2b-9cf9-4a28c5f51c42",
+
+    "Corp Scout Warthog": "6387120b-2492-400b-8855-186e2942d545",
+    "ONI Scout Warthog": "8cf551ce-6aae-4262-8352-ec1d726f5fe5",
+    "Scout Warthog": "c6f31826-00d3-4a2d-9838-31c6839d6ba9",
+    "Tundra Scout Warthog": "d8c9b04b-3395-48b5-8fa8-be9b0798a6fc",
+    "Urban Scout Warthog": "f6ae29bd-7c56-4b8b-a99b-2d8379f6c7fb",
+    "Woodland Scout Warthog": "3f9a32c6-9679-4120-b39f-168ae179975b",
+
+    "Corp Warthog": "268fcdac-d2fa-4426-90a4-530b0d7e6f07",
+    "Warthog": "c5041c29-0a1c-4ab3-8064-d084a6a3529c",
+    "Tundra Warthog": "207e7995-938e-4393-a061-3719b344140c",
+    "Urban Warthog": "8c6e0bb1-f263-4bcc-bb84-549b98c7d8b2",
+    "Woodland Warthog": "258570d4-488a-4d77-ac24-6c7200a9bfe5",
+    "ONI Warthog": "c0715726-2632-429a-a249-3c8f0d067b7b",
+
+    "Sword Wraith": "468c727f-e626-4710-b61c-80dd82acf09a",
+    "Wraith": "5ffb0462-df03-41bb-9f98-40184d7e0b7a",
+    "Wraith Ultra": "de756e6b-10a9-4cd3-99a6-22f0d890b536"
+}
