@@ -1,0 +1,17 @@
+[
+    {
+        "category": "Halo 2 BR",
+        "id": "1855ac11-4801-4fc4-9b30-d9ac3b7c1fc2",
+        "name": "Halo 2 Battle Rifle",
+        "description": "BR with Classic Sight. Reliable firepower never goes out of style. Battle Rifle with full-screen zoom.",
+        "price": 0,
+        "isWearable": false,
+        "subCategory": "",
+        "wearableId": 0,
+        "isDurable": true,
+        "rarity": "Legendary",
+        "rarityType": 4,
+        "energyLevel": 4,
+        "imageUrl": "https://image.halocdn.com/h5/requisitions/1855ac11-4801-4fc4-9b30-d9ac3b7c1fc2?locale=en&width=200&hash=dUu2S%2fOjKBzl%2bOmWHxEUhFt7tXG1NWr63TCJx%2bMrm7c%3d"
+    }
+]
