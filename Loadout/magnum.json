@@ -1,4 +1,32 @@
-{
-	"Magnum": "29c73a62-bf05-4886-a242-2b066093be88",
-	"Magnum Extended Mags": "1af75f49-931e-4798-8136-fa5eaf6921cb"
-}
+[
+    {
+        "category": "MAGNUM",
+        "id": "29c73a62-bf05-4886-a242-2b066093be88",
+        "name": "Magnum",
+        "description": "Magnum with Projection Sight. Standard-issue semi-automatic heavy pistol. Use Smart-Link and call your shots.",
+        "price": 0,
+        "isWearable": false,
+        "subCategory": "",
+        "wearableId": 0,
+        "isDurable": true,
+        "rarity": "Common",
+        "rarityType": 0,
+        "energyLevel": 1,
+        "imageUrl": "https://image.halocdn.com/h5/requisitions/29c73a62-bf05-4886-a242-2b066093be88?locale=en&width=200&hash=tSjoAaZCL6R%2fYHUPGjRW1c7RpqT13D5SqmxL7Sa0fzA%3d"
+    },
+    {
+        "category": "MAGNUM",
+        "id": "1af75f49-931e-4798-8136-fa5eaf6921cb",
+        "name": "Magnum",
+        "description": "Magnum with Projection Sight and Extended Mag. Standard-issue semi-automatic heavy pistol. Use Smart-Link and call your shots.  Extended Mags increase both ready and reserve ammunition capacity.",
+        "price": 0,
+        "isWearable": false,
+        "subCategory": "",
+        "wearableId": 0,
+        "isDurable": true,
+        "rarity": "Ultra Rare",
+        "rarityType": 3,
+        "energyLevel": 2,
+        "imageUrl": "https://image.halocdn.com/h5/requisitions/1af75f49-931e-4798-8136-fa5eaf6921cb?locale=en&width=200&hash=c5NrMs17AmZPDyKvq5Wpsff%2bDWAk1MSA9W%2f1BlCDcXs%3d"
+    }
+]
